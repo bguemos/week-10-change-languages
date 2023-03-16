@@ -1,0 +1,24 @@
+.logo{
+    height: 150px;
+    width: 250px;
+  
+
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.menuItem{
+    list-style-type: none;
+    display: flex;
+    
+  
+}
+
+.inputbar{
+    height: 20px;
+}

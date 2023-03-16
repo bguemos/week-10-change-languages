@@ -1,0 +1,10 @@
+.bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.names{
+    color: white;
+    font-size: small;
+}

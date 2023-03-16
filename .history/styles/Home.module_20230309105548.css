@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+  background-color: white;
+ 
+}
+
+.header{
+  background-color:#003c71;
+}
+
+.bottombar{
+  display: flex;
+  flex-direction: row;
+  background-color:#003c71; 
+}
+
+.media{
+  font-size: small;
+  color: white;
+}
+

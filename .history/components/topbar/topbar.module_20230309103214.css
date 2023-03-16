@@ -1,0 +1,13 @@
+.bar{
+    display: flex;
+    flex-direction: row;
+    background-color:#003c71;
+    height: 100px;
+ 
+}
+
+.names{
+    color: white;
+    font-size: small;
+
+}

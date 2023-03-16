@@ -1,0 +1,19 @@
+.logo{
+    height: 150px;
+    width: 250px;
+    position: absolute;
+
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.menuItem{
+    list-style-type: none;
+    display: flex;
+    
+  
+}

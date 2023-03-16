@@ -1,0 +1,15 @@
+.logo{
+    height: 150px;
+    width: 250px;
+}
+
+.navcontent{
+    font-display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.menuItem{
+    list-style-type: none;
+  
+}

@@ -1,0 +1,21 @@
+import Image from "next/image";
+import styles from './navbar.module.css';
+
+export default function NavBar() {
+
+    return (
+    <>
+    <img className={styles.logo} src='/bcitlogo.png'></img>
+   <div className={styles.content}>
+     <li className={styles.menuItem}><a href="/">Programs and Courses</a></li>
+     <li className={styles.menuItem}><a href="/about">Admission</a></li>
+     <li className={styles.menuItem}><a href="/contact">Student Services</a></li>
+     <li className={styles.menuItem}><a href="/about">Research</a></li>
+     <li className={styles.menuItem}><a href="/about">About BCIT</a></li>
+  </div>
+   
+    </>
+
+
+    )
+}
